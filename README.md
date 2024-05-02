@@ -1,5 +1,5 @@
 # Version-Control
-Git and Github
+Git and GitHub
 
 # Types of Version Control
 * 1-> Localized VC
@@ -8,21 +8,21 @@ Git and Github
 
  ## Localized VC
  --> Locally on the computer 
- --> Locally on the our laptop
+ --> Locally on our laptop
  * Challenges
- 1-> Harware Crash
+ 1-> Hardware Crash
  2-> Power failures
- 3-> Mohterboard Crashes
+ 3-> Motherboard Crashes
  Laptop/Coumputer khrab huaa yaha lost hou gya toh sab khatam hou jayega
 
 
  ## Centralized VC
  --> Makes copies remotely 
- * Challeges
- 1-> Single point failure
- if Central server corrupted then all system down
+ * Challenges
+ 1-> Single-point failure
+ if the Central server is corrupted then all systems down
 
- ## Distrubuted VC
+ ## Distributed VC
  --> No single point of failure
 
  # Version Control Tool
@@ -33,8 +33,8 @@ Git and Github
  ## Git
  --> Distributed version control system
 
- *Git Sanpshot*
- State of the project/code at a given moment of time.
+ *Git Snapshot*
+ State of the project/code at a given moment.
 
 
 ### Git States
