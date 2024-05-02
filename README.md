@@ -57,3 +57,62 @@ Git and GitHub
 4-> git config user.name
 
 --->  git init
+
+###  Add Track file 
+--> git add .
+
+--> git status
+
+### Commit
+--> git commit -m "my first commit"
+
+
+#### Changes
+1-> git add .
+2-> git commit -m "message"
+
+
+
+### See all previous commit
+-> git log
+
+=========================================
+
+***latest commit is known as Head***
+
+
+### Undo all the changes done
+--> git restore file1.txt
+**but used this command before git add .**
+
+git restore --staged file1.txt
+
+another command
+
+--> git reset
+==============================================
+
+#Brances
+it's a pointer that points to a snapshot
+
+--> git branch
+
+--> git branch new_branch
+
+--> git checkout new_branch
+
+--> git checkout -b branch2
+
+* rename of branch
+--> git branch -m branch2_renamed
+
+* delete the branch
+  --> git branch -d brach2_renamed
+
+
+  # git Stash
+  if you don't want to commit but want a saved file
+  --> git add .
+
+  --> git stash
+
