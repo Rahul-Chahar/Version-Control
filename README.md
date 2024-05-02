@@ -7,12 +7,16 @@ Git and GitHub
 * 3-> Distributed VC
 
  ## Localized VC
- --> Locally on the computer 
+ --> Locally on the computer
+ 
  --> Locally on our laptop
  * Challenges
  1-> Hardware Crash
+   
  2-> Power failures
+ 
  3-> Motherboard Crashes
+ 
  Laptop/Coumputer khrab huaa yaha lost hou gya toh sab khatam hou jayega
 
 
@@ -41,3 +45,15 @@ Git and GitHub
 1- Modified
 2- Staged
 3- Committed
+
+# Commands
+1-> git --version
+
+2-> git config --global user.email "abc@gmail.com"
+
+3-> git config --global user.name "ABC"
+
+*Check* 
+4-> git config user.name
+
+--->  git init
